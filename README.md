@@ -1,4 +1,4 @@
-#**A React Native demo**
+# **A React Native demo**
 This demo shows the basics of
 
 * creating Touchable Buttons,
